@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Python;Building+scalable+systems+since+age+12;CS50+Harvard+Certified+%7C+Algo+Trading+Dev;Software+Engineering+Student+%40+Alejandro+Pignolo+Medina" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Python;Building+scalable+systems+since+age+14;CS50+Harvard+Certified+%7C+Hyfix+Chat+Dev;Software+Engineering+Student+%40+Alejandro+Pignolo+Medina" alt="Typing SVG" />
 
 </div>
 
